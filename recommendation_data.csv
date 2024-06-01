@@ -1,0 +1,869 @@
+customer_id,Recommendation_name,Recommendation_date,suggestion_type,purchase_flag
+1,Recommend_screenguard,7/2/2021,With phone,0
+2,Recommend_screenguard,7/3/2021,With phone,0
+3,Recommend_screenguard,7/4/2021,With cover,1
+4,Recommend_screenguard,7/5/2021,With phone,0
+5,Recommend_screenguard,7/6/2021,With cover,1
+6,Recommend_screenguard,7/7/2021,With cover,0
+7,Recommend_screenguard,7/8/2021,With cover,1
+8,Recommend_screenguard,7/9/2021,With phone,0
+9,Recommend_screenguard,7/10/2021,With phone,0
+10,Recommend_screenguard,7/11/2021,With phone,0
+11,Recommend_screenguard,7/12/2021,With cover,1
+12,Recommend_screenguard,7/13/2021,With cover,1
+13,Recommend_screenguard,7/14/2021,With cover,1
+14,Recommend_screenguard,7/15/2021,With phone,1
+15,Recommend_screenguard,7/16/2021,With cover,1
+16,Recommend_screenguard,7/17/2021,With phone,0
+,,,,
+,,,,
+19,Recommend_screenguard,7/20/2021,With phone,1
+20,Recommend_screenguard,7/21/2021,With phone,1
+,,,,
+22,Recommend_screenguard,7/23/2021,With cover,1
+23,Recommend_screenguard,7/24/2021,With phone,1
+24,Recommend_screenguard,7/25/2021,With phone,0
+,,,,
+26,Recommend_screenguard,7/27/2021,With cover,1
+,,,,
+28,Recommend_screenguard,7/29/2021,With phone,0
+29,Recommend_screenguard,7/30/2021,With phone,0
+30,Recommend_screenguard,7/31/2021,With cover,1
+31,Recommend_screenguard,8/1/2021,With cover,1
+32,Recommend_screenguard,8/2/2021,With phone,1
+33,Recommend_screenguard,8/3/2021,With cover,1
+34,Recommend_screenguard,8/4/2021,With cover,1
+35,Recommend_screenguard,8/5/2021,With cover,1
+,,,,
+37,Recommend_screenguard,8/7/2021,With phone,1
+38,Recommend_screenguard,8/8/2021,With cover,0
+39,Recommend_screenguard,8/9/2021,With phone,1
+40,Recommend_screenguard,8/10/2021,With phone,1
+41,Recommend_screenguard,8/11/2021,With phone,1
+42,Recommend_screenguard,8/12/2021,With phone,1
+43,Recommend_screenguard,8/13/2021,With phone,1
+,,,,
+,,,,
+46,Recommend_screenguard,8/16/2021,With phone,0
+47,Recommend_screenguard,8/17/2021,With phone,0
+48,Recommend_screenguard,8/18/2021,With phone,1
+49,Recommend_screenguard,8/19/2021,With cover,1
+50,Recommend_screenguard,8/20/2021,With cover,1
+51,Recommend_screenguard,8/21/2021,With cover,1
+52,Recommend_screenguard,8/22/2021,With cover,0
+53,Recommend_screenguard,8/23/2021,With cover,1
+,,,,
+55,Recommend_screenguard,8/25/2021,With cover,1
+56,Recommend_screenguard,8/26/2021,With phone,1
+57,Recommend_screenguard,8/27/2021,With cover,1
+58,Recommend_screenguard,8/28/2021,With phone,0
+59,Recommend_screenguard,8/29/2021,With cover,1
+60,Recommend_screenguard,8/30/2021,With cover,1
+61,Recommend_screenguard,8/31/2021,With phone,1
+62,Recommend_screenguard,9/1/2021,With phone,1
+63,Recommend_screenguard,9/2/2021,With phone,0
+64,Recommend_screenguard,9/3/2021,With phone,1
+65,Recommend_screenguard,9/4/2021,With phone,0
+66,Recommend_screenguard,9/5/2021,With cover,0
+67,Recommend_screenguard,9/6/2021,With phone,0
+68,Recommend_screenguard,9/7/2021,With cover,1
+69,Recommend_screenguard,9/8/2021,With phone,1
+70,Recommend_screenguard,9/9/2021,With phone,1
+71,Recommend_screenguard,9/10/2021,With cover,1
+,,,,
+,,,,
+74,Recommend_screenguard,9/13/2021,With phone,1
+75,Recommend_screenguard,9/14/2021,With cover,0
+76,Recommend_screenguard,9/15/2021,With cover,1
+77,Recommend_screenguard,9/16/2021,With cover,0
+78,Recommend_screenguard,9/17/2021,With phone,0
+79,Recommend_screenguard,9/18/2021,With phone,0
+80,Recommend_screenguard,9/19/2021,With phone,1
+81,Recommend_screenguard,9/20/2021,With cover,1
+82,Recommend_screenguard,9/21/2021,With cover,0
+83,Recommend_screenguard,9/22/2021,With phone,1
+84,Recommend_screenguard,9/23/2021,With phone,0
+85,Recommend_screenguard,9/24/2021,With phone,1
+86,Recommend_screenguard,9/25/2021,With cover,0
+87,Recommend_screenguard,9/26/2021,With cover,1
+,,,,
+89,Recommend_screenguard,9/28/2021,With cover,0
+90,Recommend_screenguard,9/29/2021,With phone,0
+91,Recommend_screenguard,9/30/2021,With phone,1
+92,Recommend_screenguard,10/1/2021,With cover,1
+,,,,
+94,Recommend_screenguard,10/3/2021,With cover,1
+95,Recommend_screenguard,10/4/2021,With phone,1
+,,,,
+97,Recommend_screenguard,10/6/2021,With phone,0
+98,Recommend_screenguard,10/7/2021,With phone,0
+99,Recommend_screenguard,10/8/2021,With cover,1
+100,Recommend_screenguard,10/9/2021,With cover,0
+,,,,
+,,,,
+103,Recommend_screenguard,10/12/2021,With cover,0
+,,,,
+105,Recommend_screenguard,10/14/2021,With phone,1
+106,Recommend_screenguard,10/15/2021,With phone,0
+,,,,
+108,Recommend_screenguard,10/17/2021,With phone,0
+109,Recommend_screenguard,10/18/2021,With phone,0
+110,Recommend_screenguard,10/19/2021,With phone,0
+111,Recommend_screenguard,10/20/2021,With phone,0
+112,Recommend_screenguard,10/21/2021,With phone,1
+113,Recommend_screenguard,10/22/2021,With cover,1
+114,Recommend_screenguard,10/23/2021,With cover,1
+115,Recommend_screenguard,10/24/2021,With cover,0
+116,Recommend_screenguard,10/25/2021,With phone,0
+117,Recommend_screenguard,10/26/2021,With phone,0
+118,Recommend_screenguard,10/27/2021,With cover,0
+119,Recommend_screenguard,10/28/2021,With phone,0
+120,Recommend_screenguard,10/29/2021,With phone,0
+,,,,
+122,Recommend_screenguard,10/31/2021,With cover,0
+123,Recommend_screenguard,11/1/2021,With phone,1
+124,Recommend_screenguard,11/2/2021,With phone,0
+,,,,
+126,Recommend_screenguard,11/4/2021,With phone,0
+127,Recommend_screenguard,11/5/2021,With phone,0
+128,Recommend_screenguard,11/6/2021,With phone,0
+129,Recommend_screenguard,11/7/2021,With phone,0
+130,Recommend_screenguard,11/8/2021,With phone,0
+131,Recommend_screenguard,11/9/2021,With cover,0
+132,Recommend_screenguard,11/10/2021,With phone,0
+133,Recommend_screenguard,11/11/2021,With cover,0
+134,Recommend_screenguard,11/12/2021,With cover,0
+135,Recommend_screenguard,11/13/2021,With cover,0
+136,Recommend_screenguard,11/14/2021,With phone,0
+137,Recommend_screenguard,11/15/2021,With phone,0
+138,Recommend_screenguard,11/16/2021,With phone,0
+139,Recommend_screenguard,11/17/2021,With cover,1
+140,Recommend_screenguard,11/18/2021,With phone,0
+141,Recommend_screenguard,11/19/2021,With phone,0
+142,Recommend_screenguard,11/20/2021,With phone,1
+143,Recommend_screenguard,11/21/2021,With phone,0
+144,Recommend_screenguard,11/22/2021,With phone,0
+145,Recommend_screenguard,11/23/2021,With cover,0
+146,Recommend_screenguard,11/24/2021,With cover,0
+147,Recommend_screenguard,11/25/2021,With phone,0
+148,Recommend_screenguard,11/26/2021,With phone,0
+,,,,
+,,,,
+151,Recommend_screenguard,11/29/2021,With phone,0
+152,Recommend_screenguard,11/30/2021,With cover,1
+153,Recommend_screenguard,12/1/2021,With phone,0
+154,Recommend_screenguard,12/2/2021,With cover,0
+155,Recommend_screenguard,12/3/2021,With cover,0
+156,Recommend_screenguard,12/4/2021,With cover,0
+157,Recommend_screenguard,12/5/2021,With phone,0
+158,Recommend_screenguard,12/6/2021,With cover,0
+159,Recommend_screenguard,12/7/2021,With cover,0
+160,Recommend_screenguard,12/8/2021,With phone,1
+161,Recommend_screenguard,12/9/2021,With phone,0
+,,,,
+163,Recommend_screenguard,12/11/2021,With cover,0
+164,Recommend_screenguard,12/12/2021,With cover,0
+,,,,
+,,,,
+,,,,
+168,Recommend_screenguard,12/16/2021,With phone,0
+169,Recommend_screenguard,12/17/2021,With phone,1
+,,,,
+171,Recommend_screenguard,12/19/2021,With phone,0
+172,Recommend_screenguard,12/20/2021,With cover,0
+173,Recommend_screenguard,12/21/2021,With phone,0
+,,,,
+175,Recommend_screenguard,12/23/2021,With cover,0
+176,Recommend_screenguard,12/24/2021,With phone,0
+,,,,
+,,,,
+179,Recommend_screenguard,12/27/2021,With cover,0
+,,,,
+181,Recommend_screenguard,12/29/2021,With phone,0
+182,Recommend_screenguard,12/30/2021,With phone,1
+,,,,
+,,,,
+185,Recommend_screenguard,1/2/2022,With phone,0
+,,,,
+187,Recommend_screenguard,1/4/2022,With phone,1
+188,Recommend_screenguard,1/5/2022,With phone,1
+189,Recommend_screenguard,1/6/2022,With phone,0
+190,Recommend_screenguard,1/7/2022,With phone,0
+191,Recommend_screenguard,1/8/2022,With phone,1
+192,Recommend_screenguard,1/9/2022,With cover,0
+193,Recommend_screenguard,1/10/2022,With phone,0
+194,Recommend_screenguard,1/11/2022,With cover,0
+195,Recommend_screenguard,1/12/2022,With cover,0
+,,,,
+197,Recommend_screenguard,1/14/2022,With cover,0
+198,Recommend_screenguard,1/15/2022,With phone,1
+199,Recommend_screenguard,1/16/2022,With cover,0
+200,Recommend_screenguard,1/17/2022,With phone,0
+201,Recommend_screenguard,1/18/2022,With cover,0
+202,Recommend_screenguard,1/19/2022,With phone,0
+203,Recommend_screenguard,1/20/2022,With cover,1
+204,Recommend_screenguard,1/21/2022,With cover,0
+205,Recommend_screenguard,1/22/2022,With cover,0
+206,Recommend_screenguard,1/23/2022,With phone,1
+207,Recommend_screenguard,1/24/2022,With cover,1
+,,,,
+209,Recommend_screenguard,1/26/2022,With cover,0
+210,Recommend_screenguard,1/27/2022,With cover,1
+211,Recommend_screenguard,1/28/2022,With cover,1
+212,Recommend_screenguard,1/29/2022,With phone,1
+213,Recommend_screenguard,1/30/2022,With cover,1
+214,Recommend_screenguard,1/31/2022,With cover,1
+,,,,
+216,Recommend_screenguard,2/2/2022,With cover,0
+217,Recommend_screenguard,2/3/2022,With phone,1
+218,Recommend_screenguard,2/4/2022,With phone,1
+219,Recommend_screenguard,2/5/2022,With cover,0
+220,Recommend_screenguard,2/6/2022,With phone,1
+221,Recommend_screenguard,2/7/2022,With phone,1
+,,,,
+223,Recommend_screenguard,2/9/2022,With phone,0
+224,Recommend_screenguard,2/10/2022,With phone,1
+225,Recommend_screenguard,2/11/2022,With phone,0
+226,Recommend_screenguard,2/12/2022,With cover,1
+227,Recommend_screenguard,2/13/2022,With phone,0
+,,,,
+229,Recommend_screenguard,2/15/2022,With cover,1
+230,Recommend_screenguard,2/16/2022,With phone,0
+231,Recommend_screenguard,2/17/2022,With cover,1
+232,Recommend_screenguard,2/18/2022,With phone,0
+233,Recommend_screenguard,2/19/2022,With cover,1
+234,Recommend_screenguard,2/20/2022,With phone,1
+235,Recommend_screenguard,2/21/2022,With phone,0
+236,Recommend_screenguard,2/22/2022,With cover,0
+,,,,
+238,Recommend_screenguard,2/24/2022,With cover,1
+,,,,
+240,Recommend_screenguard,2/26/2022,With phone,1
+241,Recommend_screenguard,2/27/2022,With phone,0
+242,Recommend_screenguard,2/28/2022,With phone,0
+,,,,
+244,Recommend_screenguard,3/2/2022,With cover,1
+245,Recommend_screenguard,3/3/2022,With cover,1
+246,Recommend_screenguard,3/4/2022,With cover,1
+247,Recommend_screenguard,3/5/2022,With phone,1
+248,Recommend_screenguard,3/6/2022,With cover,0
+249,Recommend_screenguard,3/7/2022,With phone,0
+250,Recommend_screenguard,3/8/2022,With phone,0
+251,Recommend_screenguard,3/9/2022,With cover,0
+252,Recommend_screenguard,3/10/2022,With cover,1
+253,Recommend_screenguard,3/11/2022,With cover,0
+,,,,
+255,Recommend_screenguard,3/13/2022,With cover,1
+,,,,
+257,Recommend_screenguard,3/15/2022,With phone,0
+258,Recommend_screenguard,3/16/2022,With cover,0
+259,Recommend_screenguard,3/17/2022,With cover,0
+260,Recommend_screenguard,3/18/2022,With phone,0
+261,Recommend_screenguard,3/19/2022,With cover,1
+,,,,
+263,Recommend_screenguard,3/21/2022,With cover,0
+,,,,
+,,,,
+266,Recommend_screenguard,3/24/2022,With phone,1
+267,Recommend_screenguard,3/25/2022,With cover,1
+,,,,
+269,Recommend_screenguard,3/27/2022,With phone,1
+270,Recommend_screenguard,3/28/2022,With cover,0
+,,,,
+272,Recommend_screenguard,3/30/2022,With phone,0
+273,Recommend_screenguard,3/31/2022,With phone,0
+274,Recommend_screenguard,4/1/2022,With phone,1
+275,Recommend_screenguard,4/2/2022,With phone,1
+,,,,
+277,Recommend_screenguard,4/4/2022,With phone,0
+278,Recommend_screenguard,4/5/2022,With cover,0
+279,Recommend_screenguard,4/6/2022,With cover,1
+280,Recommend_screenguard,4/7/2022,With cover,0
+281,Recommend_screenguard,4/8/2022,With phone,0
+282,Recommend_screenguard,4/9/2022,With phone,1
+283,Recommend_screenguard,4/10/2022,With cover,0
+284,Recommend_screenguard,4/11/2022,With phone,0
+285,Recommend_screenguard,4/12/2022,With phone,1
+286,Recommend_screenguard,4/13/2022,With phone,1
+287,Recommend_screenguard,4/14/2022,With cover,0
+,,,,
+,,,,
+290,Recommend_screenguard,4/17/2022,With cover,1
+291,Recommend_screenguard,4/18/2022,With cover,1
+292,Recommend_screenguard,4/19/2022,With cover,1
+293,Recommend_screenguard,4/20/2022,With phone,1
+294,Recommend_screenguard,4/21/2022,With phone,1
+295,Recommend_screenguard,4/22/2022,With phone,1
+,,,,
+297,Recommend_screenguard,4/24/2022,With cover,1
+298,Recommend_screenguard,4/25/2022,With phone,0
+299,Recommend_screenguard,4/26/2022,With phone,1
+300,Recommend_screenguard,4/27/2022,With phone,0
+,,,,
+302,Recommend_screenguard,4/29/2022,With phone,0
+303,Recommend_screenguard,4/30/2022,With cover,0
+304,Recommend_screenguard,5/1/2022,With cover,1
+305,Recommend_screenguard,5/2/2022,With cover,0
+306,Recommend_screenguard,5/3/2022,With cover,0
+,,,,
+308,Recommend_screenguard,5/5/2022,With cover,1
+309,Recommend_screenguard,5/6/2022,With cover,1
+310,Recommend_screenguard,5/7/2022,With phone,0
+311,Recommend_screenguard,5/8/2022,With cover,0
+,,,,
+313,Recommend_screenguard,5/10/2022,With cover,0
+314,Recommend_screenguard,5/11/2022,With phone,0
+315,Recommend_screenguard,5/12/2022,With phone,1
+316,Recommend_screenguard,5/13/2022,With cover,1
+317,Recommend_screenguard,5/14/2022,With cover,1
+318,Recommend_screenguard,5/15/2022,With phone,0
+319,Recommend_screenguard,5/16/2022,With phone,0
+,,,,
+321,Recommend_screenguard,5/18/2022,With phone,1
+322,Recommend_screenguard,5/19/2022,With phone,1
+323,Recommend_screenguard,5/20/2022,With cover,1
+324,Recommend_screenguard,5/21/2022,With cover,0
+325,Recommend_screenguard,5/22/2022,With cover,0
+326,Recommend_screenguard,5/23/2022,With phone,1
+327,Recommend_screenguard,5/24/2022,With phone,0
+,,,,
+329,Recommend_screenguard,5/26/2022,With cover,0
+330,Recommend_screenguard,5/27/2022,With cover,0
+331,Recommend_screenguard,5/28/2022,With phone,0
+332,Recommend_screenguard,5/29/2022,With cover,0
+333,Recommend_screenguard,5/30/2022,With phone,0
+334,Recommend_screenguard,5/31/2022,With phone,0
+335,Recommend_screenguard,6/1/2022,With cover,0
+336,Recommend_screenguard,6/2/2022,With cover,1
+337,Recommend_screenguard,6/3/2022,With phone,0
+338,Recommend_screenguard,6/4/2022,With phone,0
+,,,,
+340,Recommend_screenguard,6/6/2022,With phone,0
+341,Recommend_screenguard,6/7/2022,With cover,1
+,,,,
+343,Recommend_screenguard,6/9/2022,With cover,1
+344,Recommend_screenguard,6/10/2022,With cover,1
+345,Recommend_screenguard,6/11/2022,With cover,0
+346,Recommend_screenguard,6/12/2022,With phone,0
+347,Recommend_screenguard,6/13/2022,With phone,1
+348,Recommend_screenguard,6/14/2022,With phone,0
+,,,,
+350,Recommend_screenguard,6/16/2022,With cover,0
+351,Recommend_screenguard,6/17/2022,With phone,0
+,,,,
+353,Recommend_screenguard,6/19/2022,With cover,0
+354,Recommend_screenguard,6/20/2022,With phone,0
+355,Recommend_screenguard,6/21/2022,With phone,0
+356,Recommend_screenguard,6/22/2022,With phone,0
+357,Recommend_screenguard,6/23/2022,With phone,0
+358,Recommend_screenguard,6/24/2022,With cover,0
+359,Recommend_screenguard,6/25/2022,With cover,0
+360,Recommend_screenguard,6/26/2022,With cover,0
+361,Recommend_screenguard,6/27/2022,With phone,0
+362,Recommend_screenguard,6/28/2022,With phone,0
+363,Recommend_screenguard,6/29/2022,With phone,0
+364,Recommend_screenguard,6/30/2022,With phone,1
+365,Recommend_screenguard,7/1/2022,With cover,1
+366,Recommend_screenguard,7/2/2022,With phone,0
+367,Recommend_screenguard,7/3/2022,With cover,1
+368,Recommend_screenguard,7/4/2022,With phone,0
+,,,,
+370,Recommend_screenguard,7/6/2022,With phone,0
+371,Recommend_screenguard,7/7/2022,With phone,0
+372,Recommend_screenguard,7/8/2022,With phone,0
+373,Recommend_screenguard,7/9/2022,With cover,1
+,,,,
+375,Recommend_screenguard,7/11/2022,With phone,0
+376,Recommend_screenguard,7/12/2022,With cover,0
+377,Recommend_screenguard,7/13/2022,With cover,0
+378,Recommend_screenguard,7/14/2022,With cover,0
+379,Recommend_screenguard,7/15/2022,With phone,0
+380,Recommend_screenguard,7/16/2022,With cover,0
+381,Recommend_screenguard,7/17/2022,With cover,0
+382,Recommend_screenguard,7/18/2022,With phone,1
+383,Recommend_screenguard,7/19/2022,With cover,0
+384,Recommend_screenguard,7/20/2022,With phone,1
+385,Recommend_screenguard,7/21/2022,With phone,1
+386,Recommend_screenguard,7/22/2022,With phone,1
+387,Recommend_screenguard,7/23/2022,With cover,0
+388,Recommend_screenguard,7/24/2022,With phone,0
+389,Recommend_screenguard,7/25/2022,With phone,0
+390,Recommend_screenguard,7/26/2022,With phone,0
+391,Recommend_screenguard,7/27/2022,With phone,0
+,,,,
+393,Recommend_screenguard,7/29/2022,With phone,1
+394,Recommend_screenguard,7/30/2022,With cover,0
+395,Recommend_screenguard,7/31/2022,With cover,1
+396,Recommend_screenguard,8/1/2022,With cover,0
+397,Recommend_screenguard,8/2/2022,With phone,0
+,,,,
+399,Recommend_screenguard,8/4/2022,With phone,0
+400,Recommend_screenguard,8/5/2022,With cover,0
+401,Recommend_screenguard,8/6/2022,With phone,0
+402,Recommend_screenguard,8/7/2022,With phone,0
+,,,,
+404,Recommend_screenguard,8/9/2022,With phone,1
+405,Recommend_screenguard,8/10/2022,With phone,0
+406,Recommend_screenguard,8/11/2022,With phone,0
+407,Recommend_screenguard,8/12/2022,With cover,0
+408,Recommend_screenguard,8/13/2022,With phone,0
+409,Recommend_screenguard,8/14/2022,With phone,0
+410,Recommend_screenguard,8/15/2022,With cover,0
+411,Recommend_screenguard,8/16/2022,With phone,1
+412,Recommend_screenguard,8/17/2022,With phone,0
+413,Recommend_screenguard,8/18/2022,With phone,1
+414,Recommend_screenguard,8/19/2022,With cover,0
+415,Recommend_screenguard,8/20/2022,With phone,0
+,,,,
+417,Recommend_screenguard,8/22/2022,With cover,1
+418,Recommend_screenguard,8/23/2022,With cover,0
+419,Recommend_screenguard,8/24/2022,With cover,1
+,,,,
+421,Recommend_screenguard,8/26/2022,With cover,0
+,,,,
+423,Recommend_screenguard,8/28/2022,With cover,0
+424,Recommend_screenguard,8/29/2022,With phone,0
+425,Recommend_screenguard,8/30/2022,With phone,0
+426,Recommend_screenguard,8/31/2022,With phone,0
+427,Recommend_screenguard,9/1/2022,With cover,0
+428,Recommend_screenguard,9/2/2022,With phone,0
+429,Recommend_screenguard,9/3/2022,With phone,0
+430,Recommend_screenguard,9/4/2022,With cover,0
+431,Recommend_screenguard,9/5/2022,With phone,1
+432,Recommend_screenguard,9/6/2022,With phone,0
+433,Recommend_screenguard,9/7/2022,With phone,1
+434,Recommend_screenguard,9/8/2022,With cover,0
+435,Recommend_screenguard,9/9/2022,With phone,1
+,,,,
+437,Recommend_screenguard,9/11/2022,With phone,1
+,,,,
+439,Recommend_screenguard,9/13/2022,With phone,0
+440,Recommend_screenguard,9/14/2022,With phone,0
+,,,,
+442,Recommend_screenguard,9/16/2022,With phone,1
+443,Recommend_screenguard,9/17/2022,With cover,0
+,,,,
+445,Recommend_screenguard,9/19/2022,With cover,0
+,,,,
+,,,,
+,,,,
+449,Recommend_screenguard,9/23/2022,With phone,1
+,,,,
+,,,,
+452,Recommend_screenguard,9/26/2022,With phone,0
+453,Recommend_screenguard,9/27/2022,With cover,0
+454,Recommend_screenguard,9/28/2022,With phone,1
+455,Recommend_screenguard,9/29/2022,With phone,0
+,,,,
+,,,,
+458,Recommend_screenguard,10/2/2022,With phone,0
+,,,,
+,,,,
+461,Recommend_screenguard,10/5/2022,With phone,0
+462,Recommend_screenguard,10/6/2022,With phone,0
+,,,,
+464,Recommend_screenguard,10/8/2022,With cover,0
+,,,,
+466,Recommend_screenguard,10/10/2022,With phone,0
+467,Recommend_screenguard,10/11/2022,With phone,0
+468,Recommend_screenguard,10/12/2022,With cover,0
+469,Recommend_screenguard,10/13/2022,With phone,0
+,,,,
+471,Recommend_screenguard,10/15/2022,With phone,0
+472,Recommend_screenguard,10/16/2022,With phone,1
+473,Recommend_screenguard,10/17/2022,With cover,0
+474,Recommend_screenguard,10/18/2022,With phone,0
+475,Recommend_screenguard,10/19/2022,With cover,0
+476,Recommend_screenguard,10/20/2022,With cover,0
+477,Recommend_screenguard,10/21/2022,With cover,0
+478,Recommend_screenguard,10/22/2022,With cover,0
+479,Recommend_screenguard,10/23/2022,With cover,0
+480,Recommend_screenguard,10/24/2022,With cover,0
+481,Recommend_screenguard,10/25/2022,With phone,1
+482,Recommend_screenguard,10/26/2022,With phone,0
+483,Recommend_screenguard,10/27/2022,With phone,0
+,,,,
+,,,,
+,,,,
+487,Recommend_screenguard,10/31/2022,With cover,0
+488,Recommend_screenguard,11/1/2022,With phone,0
+489,Recommend_screenguard,11/2/2022,With phone,0
+490,Recommend_screenguard,11/3/2022,With phone,0
+491,Recommend_screenguard,11/4/2022,With cover,1
+,,,,
+493,Recommend_screenguard,11/6/2022,With cover,0
+,,,,
+495,Recommend_screenguard,11/8/2022,With cover,0
+496,Recommend_screenguard,11/9/2022,With cover,0
+497,Recommend_screenguard,11/10/2022,With cover,0
+498,Recommend_screenguard,11/11/2022,With phone,0
+499,Recommend_screenguard,11/12/2022,With phone,0
+500,Recommend_screenguard,11/13/2022,With phone,0
+,,,,
+502,Recommend_screenguard,11/15/2022,With phone,0
+503,Recommend_screenguard,11/16/2022,With phone,0
+504,Recommend_screenguard,11/17/2022,With phone,0
+505,Recommend_screenguard,11/18/2022,With cover,0
+506,Recommend_screenguard,11/19/2022,With phone,0
+507,Recommend_screenguard,11/20/2022,With cover,0
+508,Recommend_screenguard,11/21/2022,With cover,0
+,,,,
+510,Recommend_screenguard,11/23/2022,With cover,1
+511,Recommend_screenguard,11/24/2022,With cover,1
+512,Recommend_screenguard,11/25/2022,With cover,0
+513,Recommend_screenguard,11/26/2022,With phone,0
+514,Recommend_screenguard,11/27/2022,With cover,0
+,,,,
+516,Recommend_screenguard,11/29/2022,With cover,1
+517,Recommend_screenguard,11/30/2022,With phone,0
+518,Recommend_screenguard,12/1/2022,With phone,0
+519,Recommend_screenguard,12/2/2022,With phone,1
+520,Recommend_screenguard,12/3/2022,With phone,1
+521,Recommend_screenguard,12/4/2022,With cover,0
+522,Recommend_screenguard,12/5/2022,With cover,0
+523,Recommend_screenguard,12/6/2022,With phone,0
+524,Recommend_screenguard,12/7/2022,With phone,0
+525,Recommend_screenguard,12/8/2022,With cover,0
+,,,,
+527,Recommend_screenguard,12/10/2022,With cover,0
+528,Recommend_screenguard,12/11/2022,With phone,0
+529,Recommend_screenguard,12/12/2022,With cover,0
+530,Recommend_screenguard,12/13/2022,With cover,0
+,,,,
+532,Recommend_screenguard,12/15/2022,With phone,0
+533,Recommend_screenguard,12/16/2022,With cover,1
+534,Recommend_screenguard,12/17/2022,With phone,0
+535,Recommend_screenguard,12/18/2022,With phone,0
+536,Recommend_screenguard,12/19/2022,With cover,0
+537,Recommend_screenguard,12/20/2022,With phone,0
+538,Recommend_screenguard,12/21/2022,With phone,1
+539,Recommend_screenguard,12/22/2022,With cover,0
+540,Recommend_screenguard,12/23/2022,With phone,1
+541,Recommend_screenguard,12/24/2022,With phone,0
+542,Recommend_screenguard,12/25/2022,With phone,1
+,,,,
+544,Recommend_screenguard,12/27/2022,With cover,0
+545,Recommend_screenguard,12/28/2022,With cover,0
+546,Recommend_screenguard,12/29/2022,With phone,0
+547,Recommend_screenguard,12/30/2022,With cover,1
+548,Recommend_screenguard,12/31/2022,With phone,0
+549,Recommend_screenguard,1/1/2023,With cover,0
+550,Recommend_screenguard,1/2/2023,With cover,0
+551,Recommend_screenguard,1/3/2023,With cover,0
+552,Recommend_screenguard,1/4/2023,With phone,1
+553,Recommend_screenguard,1/5/2023,With phone,0
+554,Recommend_screenguard,1/6/2023,With phone,1
+555,Recommend_screenguard,1/7/2023,With cover,1
+556,Recommend_screenguard,1/8/2023,With phone,0
+557,Recommend_screenguard,1/9/2023,With phone,0
+558,Recommend_screenguard,1/10/2023,With phone,0
+559,Recommend_screenguard,1/11/2023,With cover,0
+,,,,
+561,Recommend_screenguard,1/13/2023,With cover,1
+562,Recommend_screenguard,1/14/2023,With cover,1
+563,Recommend_screenguard,1/15/2023,With cover,0
+564,Recommend_screenguard,1/16/2023,With phone,1
+565,Recommend_screenguard,1/17/2023,With phone,0
+566,Recommend_screenguard,1/18/2023,With phone,0
+567,Recommend_screenguard,1/19/2023,With cover,0
+568,Recommend_screenguard,1/20/2023,With cover,0
+,,,,
+570,Recommend_screenguard,1/22/2023,With phone,0
+571,Recommend_screenguard,1/23/2023,With cover,1
+,,,,
+573,Recommend_screenguard,1/25/2023,With cover,0
+574,Recommend_screenguard,1/26/2023,With cover,1
+575,Recommend_screenguard,1/27/2023,With cover,0
+576,Recommend_screenguard,1/28/2023,With phone,0
+577,Recommend_screenguard,1/29/2023,With cover,1
+,,,,
+,,,,
+580,Recommend_screenguard,2/1/2023,With cover,0
+581,Recommend_screenguard,2/2/2023,With phone,0
+582,Recommend_screenguard,2/3/2023,With phone,0
+583,Recommend_screenguard,2/4/2023,With phone,0
+584,Recommend_screenguard,2/5/2023,With phone,0
+,,,,
+586,Recommend_screenguard,2/7/2023,With phone,0
+587,Recommend_screenguard,2/8/2023,With cover,0
+,,,,
+589,Recommend_screenguard,2/10/2023,With phone,0
+590,Recommend_screenguard,2/11/2023,With cover,0
+,,,,
+,,,,
+593,Recommend_screenguard,2/14/2023,With cover,0
+594,Recommend_screenguard,2/15/2023,With phone,0
+595,Recommend_screenguard,2/16/2023,With phone,0
+596,Recommend_screenguard,2/17/2023,With phone,0
+597,Recommend_screenguard,2/18/2023,With phone,0
+598,Recommend_screenguard,2/19/2023,With cover,0
+599,Recommend_screenguard,2/20/2023,With cover,0
+,,,,
+,,,,
+,,,,
+603,Recommend_screenguard,2/24/2023,With phone,0
+604,Recommend_screenguard,2/25/2023,With phone,0
+605,Recommend_screenguard,2/26/2023,With cover,0
+606,Recommend_screenguard,2/27/2023,With phone,0
+,,,,
+,,,,
+609,Recommend_screenguard,3/2/2023,With phone,0
+610,Recommend_screenguard,3/3/2023,With phone,0
+611,Recommend_screenguard,3/4/2023,With cover,1
+612,Recommend_screenguard,3/5/2023,With phone,0
+613,Recommend_screenguard,3/6/2023,With cover,0
+,,,,
+615,Recommend_screenguard,3/8/2023,With phone,0
+616,Recommend_screenguard,3/9/2023,With phone,0
+617,Recommend_screenguard,3/10/2023,With phone,1
+618,Recommend_screenguard,3/11/2023,With phone,0
+619,Recommend_screenguard,3/12/2023,With phone,0
+,,,,
+,,,,
+622,Recommend_screenguard,3/15/2023,With phone,0
+623,Recommend_screenguard,3/16/2023,With cover,1
+624,Recommend_screenguard,3/17/2023,With cover,1
+625,Recommend_screenguard,3/18/2023,With cover,0
+626,Recommend_screenguard,3/19/2023,With phone,0
+627,Recommend_screenguard,3/20/2023,With phone,0
+628,Recommend_screenguard,3/21/2023,With phone,0
+629,Recommend_screenguard,3/22/2023,With cover,0
+630,Recommend_screenguard,3/23/2023,With cover,0
+,,,,
+632,Recommend_screenguard,3/25/2023,With phone,0
+633,Recommend_screenguard,3/26/2023,With cover,0
+634,Recommend_screenguard,3/27/2023,With phone,0
+635,Recommend_screenguard,3/28/2023,With cover,0
+636,Recommend_screenguard,3/29/2023,With phone,0
+637,Recommend_screenguard,3/30/2023,With phone,0
+,,,,
+639,Recommend_screenguard,4/1/2023,With cover,1
+640,Recommend_screenguard,4/2/2023,With cover,1
+641,Recommend_screenguard,4/3/2023,With phone,0
+642,Recommend_screenguard,4/4/2023,With cover,0
+643,Recommend_screenguard,4/5/2023,With phone,0
+644,Recommend_screenguard,4/6/2023,With phone,0
+645,Recommend_screenguard,4/7/2023,With phone,0
+646,Recommend_screenguard,4/8/2023,With cover,0
+647,Recommend_screenguard,4/9/2023,With phone,0
+648,Recommend_screenguard,4/10/2023,With cover,0
+649,Recommend_screenguard,4/11/2023,With phone,0
+650,Recommend_screenguard,4/12/2023,With cover,0
+651,Recommend_screenguard,4/13/2023,With cover,1
+652,Recommend_screenguard,4/14/2023,With phone,0
+,,,,
+,,,,
+655,Recommend_screenguard,4/17/2023,With cover,1
+656,Recommend_screenguard,4/18/2023,With phone,0
+657,Recommend_screenguard,4/19/2023,With cover,1
+658,Recommend_screenguard,4/20/2023,With cover,0
+659,Recommend_screenguard,4/21/2023,With phone,0
+660,Recommend_screenguard,4/22/2023,With cover,0
+,,,,
+662,Recommend_screenguard,4/24/2023,With cover,0
+663,Recommend_screenguard,4/25/2023,With phone,0
+664,Recommend_screenguard,4/26/2023,With cover,0
+665,Recommend_screenguard,4/27/2023,With phone,0
+666,Recommend_screenguard,4/28/2023,With cover,0
+667,Recommend_screenguard,4/29/2023,With cover,0
+668,Recommend_screenguard,4/30/2023,With cover,0
+669,Recommend_screenguard,5/1/2023,With cover,0
+670,Recommend_screenguard,5/2/2023,With phone,0
+671,Recommend_screenguard,5/3/2023,With cover,0
+,,,,
+673,Recommend_screenguard,5/5/2023,With cover,0
+674,Recommend_screenguard,5/6/2023,With cover,1
+675,Recommend_screenguard,5/7/2023,With cover,0
+,,,,
+677,Recommend_screenguard,5/9/2023,With phone,0
+678,Recommend_screenguard,5/10/2023,With cover,0
+679,Recommend_screenguard,5/11/2023,With phone,0
+680,Recommend_screenguard,5/12/2023,With phone,0
+681,Recommend_screenguard,5/13/2023,With phone,0
+682,Recommend_screenguard,5/14/2023,With cover,0
+683,Recommend_screenguard,5/15/2023,With cover,0
+684,Recommend_screenguard,5/16/2023,With cover,0
+685,Recommend_screenguard,5/17/2023,With phone,1
+686,Recommend_screenguard,5/18/2023,With cover,0
+687,Recommend_screenguard,5/19/2023,With phone,0
+,,,,
+689,Recommend_screenguard,5/21/2023,With phone,0
+690,Recommend_screenguard,5/22/2023,With cover,0
+,,,,
+,,,,
+,,,,
+,,,,
+695,Recommend_screenguard,5/27/2023,With cover,0
+696,Recommend_screenguard,5/28/2023,With phone,1
+697,Recommend_screenguard,5/29/2023,With cover,0
+,,,,
+699,Recommend_screenguard,5/31/2023,With phone,0
+,,,,
+701,Recommend_screenguard,6/2/2023,With cover,0
+702,Recommend_screenguard,6/3/2023,With cover,0
+,,,,
+704,Recommend_screenguard,6/5/2023,With phone,0
+705,Recommend_screenguard,6/6/2023,With cover,0
+706,Recommend_screenguard,6/7/2023,With cover,0
+707,Recommend_screenguard,6/8/2023,With phone,0
+708,Recommend_screenguard,6/9/2023,With phone,0
+709,Recommend_screenguard,6/10/2023,With cover,0
+710,Recommend_screenguard,6/11/2023,With cover,0
+711,Recommend_screenguard,6/12/2023,With cover,0
+712,Recommend_screenguard,6/13/2023,With cover,0
+713,Recommend_screenguard,6/14/2023,With phone,0
+,,,,
+715,Recommend_screenguard,6/16/2023,With phone,0
+716,Recommend_screenguard,6/17/2023,With phone,0
+,,,,
+718,Recommend_screenguard,6/19/2023,With cover,0
+719,Recommend_screenguard,6/20/2023,With phone,0
+720,Recommend_screenguard,6/21/2023,With cover,0
+721,Recommend_screenguard,6/22/2023,With cover,0
+722,Recommend_screenguard,6/23/2023,With phone,1
+723,Recommend_screenguard,6/24/2023,With phone,0
+,,,,
+,,,,
+,,,,
+727,Recommend_screenguard,6/28/2023,With phone,0
+728,Recommend_screenguard,6/29/2023,With cover,0
+,,,,
+730,Recommend_screenguard,7/1/2023,With phone,0
+,,,,
+732,Recommend_screenguard,7/3/2023,With phone,0
+733,Recommend_screenguard,7/4/2023,With cover,0
+734,Recommend_screenguard,7/5/2023,With cover,0
+735,Recommend_screenguard,7/6/2023,With cover,0
+,,,,
+737,Recommend_screenguard,7/8/2023,With cover,0
+738,Recommend_screenguard,7/9/2023,With cover,0
+739,Recommend_screenguard,7/10/2023,With phone,0
+740,Recommend_screenguard,7/11/2023,With phone,0
+741,Recommend_screenguard,7/12/2023,With phone,0
+742,Recommend_screenguard,7/13/2023,With cover,0
+,,,,
+744,Recommend_screenguard,7/15/2023,With phone,1
+745,Recommend_screenguard,7/16/2023,With cover,0
+746,Recommend_screenguard,7/17/2023,With cover,0
+747,Recommend_screenguard,7/18/2023,With cover,1
+748,Recommend_screenguard,7/19/2023,With phone,0
+749,Recommend_screenguard,7/20/2023,With phone,0
+750,Recommend_screenguard,7/21/2023,With phone,0
+751,Recommend_screenguard,7/22/2023,With cover,0
+,,,,
+753,Recommend_screenguard,7/24/2023,With phone,0
+,,,,
+755,Recommend_screenguard,7/26/2023,With cover,0
+756,Recommend_screenguard,7/27/2023,With cover,0
+757,Recommend_screenguard,7/28/2023,With cover,0
+758,Recommend_screenguard,7/29/2023,With phone,0
+759,Recommend_screenguard,7/30/2023,With cover,0
+760,Recommend_screenguard,7/31/2023,With cover,1
+761,Recommend_screenguard,8/1/2023,With phone,0
+,,,,
+,,,,
+764,Recommend_screenguard,8/4/2023,With cover,0
+,,,,
+766,Recommend_screenguard,8/6/2023,With phone,0
+767,Recommend_screenguard,8/7/2023,With phone,0
+768,Recommend_screenguard,8/8/2023,With phone,0
+769,Recommend_screenguard,8/9/2023,With cover,0
+770,Recommend_screenguard,8/10/2023,With phone,0
+771,Recommend_screenguard,8/11/2023,With cover,0
+772,Recommend_screenguard,8/12/2023,With phone,0
+,,,,
+,,,,
+,,,,
+,,,,
+777,Recommend_screenguard,8/17/2023,With phone,0
+778,Recommend_screenguard,8/18/2023,With cover,0
+779,Recommend_screenguard,8/19/2023,With phone,1
+780,Recommend_screenguard,8/20/2023,With phone,0
+781,Recommend_screenguard,8/21/2023,With phone,1
+782,Recommend_screenguard,8/22/2023,With cover,1
+783,Recommend_screenguard,8/23/2023,With phone,1
+784,Recommend_screenguard,8/24/2023,With phone,1
+,,,,
+786,Recommend_screenguard,8/26/2023,With phone,1
+787,Recommend_screenguard,8/27/2023,With cover,1
+788,Recommend_screenguard,8/28/2023,With cover,1
+789,Recommend_screenguard,8/29/2023,With cover,1
+790,Recommend_screenguard,8/30/2023,With phone,1
+791,Recommend_screenguard,8/31/2023,With cover,1
+,,,,
+,,,,
+794,Recommend_screenguard,9/3/2023,With cover,1
+,,,,
+,,,,
+797,Recommend_screenguard,9/6/2023,With phone,0
+,,,,
+799,Recommend_screenguard,9/8/2023,With phone,1
+800,Recommend_screenguard,9/9/2023,With cover,1
+801,Recommend_screenguard,9/10/2023,With phone,1
+802,Recommend_screenguard,9/11/2023,With cover,0
+803,Recommend_screenguard,9/12/2023,With cover,1
+804,Recommend_screenguard,9/13/2023,With cover,1
+,,,,
+806,Recommend_screenguard,9/15/2023,With cover,1
+807,Recommend_screenguard,9/16/2023,With phone,0
+808,Recommend_screenguard,9/17/2023,With phone,0
+,,,,
+810,Recommend_screenguard,9/19/2023,With cover,1
+811,Recommend_screenguard,9/20/2023,With phone,1
+812,Recommend_screenguard,9/21/2023,With phone,1
+813,Recommend_screenguard,9/22/2023,With cover,1
+814,Recommend_screenguard,9/23/2023,With phone,1
+815,Recommend_screenguard,9/24/2023,With phone,1
+,,,,
+817,Recommend_screenguard,9/26/2023,With phone,1
+818,Recommend_screenguard,9/27/2023,With cover,1
+819,Recommend_screenguard,9/28/2023,With cover,1
+820,Recommend_screenguard,9/29/2023,With phone,0
+821,Recommend_screenguard,9/30/2023,With cover,1
+822,Recommend_screenguard,10/1/2023,With cover,1
+823,Recommend_screenguard,10/2/2023,With cover,1
+824,Recommend_screenguard,10/3/2023,With phone,1
+825,Recommend_screenguard,10/4/2023,With phone,0
+826,Recommend_screenguard,10/5/2023,With cover,1
+827,Recommend_screenguard,10/6/2023,With cover,1
+828,Recommend_screenguard,10/7/2023,With phone,0
+829,Recommend_screenguard,10/8/2023,With cover,0
+830,Recommend_screenguard,10/9/2023,With cover,0
+831,Recommend_screenguard,10/10/2023,With cover,0
+832,Recommend_screenguard,10/11/2023,With cover,1
+833,Recommend_screenguard,10/12/2023,With cover,0
+834,Recommend_screenguard,10/13/2023,With phone,1
+835,Recommend_screenguard,10/14/2023,With phone,0
+836,Recommend_screenguard,10/15/2023,With cover,0
+837,Recommend_screenguard,10/16/2023,With cover,0
+838,Recommend_screenguard,10/17/2023,With phone,1
+839,Recommend_screenguard,10/18/2023,With phone,1
+840,Recommend_screenguard,10/19/2023,With cover,0
+841,Recommend_screenguard,10/20/2023,With phone,1
+842,Recommend_screenguard,10/21/2023,With phone,1
+843,Recommend_screenguard,10/22/2023,With cover,1
+844,Recommend_screenguard,10/23/2023,With cover,0
+845,Recommend_screenguard,10/24/2023,With cover,1
+846,Recommend_screenguard,10/25/2023,With cover,1
+847,Recommend_screenguard,10/26/2023,With cover,1
+848,Recommend_screenguard,10/27/2023,With cover,1
+,,,,
+850,Recommend_screenguard,10/29/2023,With cover,1
+851,Recommend_screenguard,10/30/2023,With phone,1
+852,Recommend_screenguard,10/31/2023,With cover,1
+853,Recommend_screenguard,11/1/2023,With phone,1
+854,Recommend_screenguard,11/2/2023,With phone,0
+855,Recommend_screenguard,11/3/2023,With phone,0
+856,Recommend_screenguard,11/4/2023,With phone,1
+857,Recommend_screenguard,11/5/2023,With cover,1
+858,Recommend_screenguard,11/6/2023,With cover,1
+859,Recommend_screenguard,11/7/2023,With cover,0
+860,Recommend_screenguard,11/8/2023,With cover,1
+861,Recommend_screenguard,11/9/2023,With cover,1
+862,Recommend_screenguard,11/10/2023,With cover,0
+863,Recommend_screenguard,11/11/2023,With phone,1
+864,Recommend_screenguard,11/12/2023,With cover,1
+865,Recommend_screenguard,11/13/2023,With phone,1
+866,Recommend_screenguard,11/14/2023,With cover,1
+867,Recommend_screenguard,11/15/2023,With phone,1
+868,Recommend_screenguard,11/16/2023,With cover,1
